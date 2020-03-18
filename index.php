@@ -20,7 +20,7 @@
 
 	<?
 
-$nama = "saiful";
+$nama = "YULIANA";
 ?>
 
 <!DOCTYPE html>
@@ -188,7 +188,7 @@ $y = 20 ;
 
   <?
 
-$nama = "saiful";
+$nama = "YULIANA";
 ?>
 
 <!DOCTYPE html>
@@ -201,7 +201,7 @@ $nama = "saiful";
 </head>
 <body>
 	<h1>
-		hello, selamat datang <?php echo $saiful;| ?>
+		hello, selamat datang <?php echo $ SITI YULIANA;| ?>
 			
 		</h1>
 
@@ -211,7 +211,7 @@ $nama = "saiful";
 
 	<?
 
-$nama = "saiful";
+$nama = "YULIANA";
 ?>
 
 <!DOCTYPE html>
@@ -224,7 +224,7 @@ $nama = "saiful";
 </head>
 <body>
 
-	<h1>hello, selamat datang <?php echo $saiful;| ?></h1>
+	<h1>hello, selamat datang <?php echo $SITI YULIANA;| ?></h1>
 
 	</body>
 	</html>		
@@ -237,7 +237,7 @@ $nama = "saiful";
    // variabel = digunakan untuk menyimpan data
    // Aturan Variabel 'tidak boleh diawali dengan angka,tapi boleh mengandung angka'
 
-   $nama = "Saiful Bahri";
+   $nama = "SITI YULIANA";
    ?>
 
  <!DOCTYPE html>
@@ -279,8 +279,8 @@ echo $11 + $20;
 
 
 	<?php
-$nama_depan ="saiful";
-$nama_belakang ="bahri";
+$nama_depan ="SITI";
+$nama_belakang ="YULIANA";
 echo $nama_depan ."". $nama_belakang;
 ?>
 
@@ -353,4 +353,6 @@ var_dump (3 === "3");
 
 
 
-	?>				
+	?>		
+
+
