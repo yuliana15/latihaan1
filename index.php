@@ -38,3 +38,10 @@ $nama = "saiful";
 	</body>
 	</html>		
 
+
+<?php
+$nama = "YULIANA";
+
+echo "hallo,selamat datang $nama </br>";
+echo 'halle,selamat datang $nama',
+?>
