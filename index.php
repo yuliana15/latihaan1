@@ -16,3 +16,25 @@
 	?>
 	</body>
 	<html>
+
+
+	<?
+
+$nama = "saiful";
+?>
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>
+		belajar php
+
+</title>
+</head>
+<body>
+
+	<h1>hello, selamat datang <?php echo $YULIANA;| ?></h1>
+
+	</body>
+	</html>		
+
