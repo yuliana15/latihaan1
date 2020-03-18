@@ -151,3 +151,31 @@ var_dump($x < 20 && $x % 3 == 0);
 
 
 	?>		
+
+
+	<?php
+Operator Aritmatika
+$x = 10 ;
+$y = 20 ;
+	echo $10 + $20;
+	
+	echo $10 - $20;
+	
+	echo $10 * $20;
+	
+	echo $10 / $20;
+	
+	echo $10 % $20;
+
+
+	echo $11 + $20;
+	
+	echo $10 - $20;
+	
+	echo $10 * $12;
+	
+	echo $10 / $4;
+	
+	echo $10 % $8;
+
+	>?
