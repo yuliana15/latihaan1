@@ -1,13 +1,10 @@
-<?php
-// pengulangan
-// while
+<?php 
 
-$i = 0; #bagian inisialisai
-while ($i < 5) { #didalam bracket () kondisi terminasi
+$ulangi = 0;
 
-		echo "Hai, Dunia! <br";
-		$i++; #increment
-	# code...
+while($ulangi < 10){
+    echo "<p>Hai, ini baris ke-$ulangi</p>";
+    $ulangi++;
 }
 
 ?>
