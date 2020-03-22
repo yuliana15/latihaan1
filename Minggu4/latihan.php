@@ -3,7 +3,7 @@
 // for
 
 for ($i = 0; $i < 5; i++){
-	echo "Hello Word!  <br>";
+	echo "Hai,saya urutan ke-1  <br>";
 
 }
 
