@@ -1,23 +1,13 @@
-<?php
-//date untuk menampilkan tanggal dengan format tertentu
+?php
+function perkalian($angka1, $angka2)
+{
+	return $angka1*$angka2;
+}
+$hasil = perkalian(20,3);
 
-		function Salam ($waktu, $nama)
-		{
-			return "Selamat $waktu, $nama!";
-		}
-		?>
+echo "Perkalian 20 x 3 adalah $hasil";
 
-		<!DOCTYPE html>
-		<html lang="en">
-		<head>
+echo "<br>";
 
-			<meta charset="UTF-8">
-			<meta nama="viewport"
-			content="width=device-width,initial-scale=1.0">
-			<title> latihan function </title>
-		</head>
-		<body>
-			<h1><?= salam("pagi","SITI YULIANA") ?></h1>
-		</body>
-		</html>
-	?>	
+echo "Perkalian 9 x 2 adalah " .perkalian (9,2);
+?>
