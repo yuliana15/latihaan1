@@ -18,4 +18,3 @@ if (!isset ($_POST["submit"])){
 </body>
 
 </html>
-© 2020 GitHub, Inc.
